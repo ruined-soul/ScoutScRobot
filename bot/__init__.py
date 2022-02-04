@@ -82,11 +82,12 @@ AVAILABLE_CODE_RECVING_OPTIONS = {
 START_OTHER_USERS_TEXT = get_config(
     "START_OTHER_USERS_TEXT",
     (
-        "Hi. ☺️\n"
+        "Hi,welcome to @Scoutscrobot. ☺️\n"
         "Thank you for using me 😬\n\n"
-        "This is an Open Source Project available on "
-        "https://github.com/SpEcHIDe/SessionMakerBot\n"
-        "ℹ️ Subscribe @SpEcHlDe if you 😍 using this bot❗️❣️"
+        "This is an Open Source Project "
+        "I will help you get your APP_ID and API_HASH from https://my.telegram.org/.\n"
+        "Enter /start at any stage to re-enter your details\n"
+        "𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 @assistofficial"
     )
 )
 INPUT_PHONE_NUMBER = get_config("INPUT_PHONE_NUMBER", (
