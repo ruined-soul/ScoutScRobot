@@ -136,8 +136,8 @@ ACC_PROK_WITH_TFA = get_config("ACC_PROK_WITH_TFA", (
     "string session, and will never be used for any other purposes "
     "than for which it is asked.</i>\n\n"
     "It is recommended to use "
-    "https://github.com/SpEcHIDe/SessionMakerBot and not "
-    "use this hosted version"
+    "@Scoutscrobot to get your session for scout bots and not "
+    "use other fake or kanged version"
 ))
 SESSION_GENERATED_USING = get_config("SESSION_GENERATED_USING", (
     "Hi,welcome to @Scoutscrobot. ☺️\n"
