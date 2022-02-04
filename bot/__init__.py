@@ -140,8 +140,10 @@ ACC_PROK_WITH_TFA = get_config("ACC_PROK_WITH_TFA", (
     "use this hosted version"
 ))
 SESSION_GENERATED_USING = get_config("SESSION_GENERATED_USING", (
-    "Thank you for using me 😬\n\n"
-    "This is an Open Source Project available on "
-    "https://github.com/SpEcHIDe/SessionMakerBot\n\n\n"
-    "👆👆👆 String Session successfully generated 👆👆👆"
+    "Hi,welcome to @Scoutscrobot. ☺️\n"
+        "Thank you for using me 😬\n\n"
+        "This is an Open Source Project "
+        "I will help you get your APP_ID and API_HASH from https://my.telegram.org/.\n"
+        "Enter /start at any stage to re-enter your details\n"
+        "𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 @assistofficial"
 ))
