@@ -13,9 +13,4 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-## Credits, and Thanks to
-
-* [ThankTelegram](https://telegram.dog/ThankTelegram)
-* [Dan Tès](https://telegram.dog/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
-* [pokurt](https://github.com/pokurt) for his [PyroGram Session Maker](https://github.com/pokurt/Pyrogram-SessionMaker-Bot)
-* [SpEcHIDe](https://gitlab.com/SpEcHIDe) for his [Telethon String Session Generator](https://gitlab.com/spechide/GetUniBorgBot)
+## Credits, and Thanks to the respective owners of the code and project.
